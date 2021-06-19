@@ -1,7 +1,7 @@
 # Installation SmartGlove
 
-1. Install [the Arduino IDE][1].
-2. In the Arduino IDE preferences, add the following **Additional Board Manager URL**:
+1. Installiere [the Arduino IDE][1].
+2. In den Arduino-Einstellungen, den folgenden Eintrag zu **Additional Board Manager URL** hinzufügen:
 
    `https://adafruit.github.io/arduino-board-index/package_adafruit_index.json`
 
